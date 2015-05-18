@@ -1,11 +1,11 @@
 console <<-BASH
-  rvm install 2.0.0
+rvm install 2.0.0
 BASH
 
 message "This downloads and compiles Ruby, which takes a while."
 console <<-BASH
-  rvm use 2.0.0
-  rvm --default use 2.0.0
+rvm use 2.0.0
+rvm --default use 2.0.0
 BASH
 
 verify do

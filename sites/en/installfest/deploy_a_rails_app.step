@@ -4,7 +4,7 @@ step "Use git" do
   end
 
   console <<-BASH
-    git init
+git init
   BASH
 
   result "Initialized empty Git repository in c:/Sites/railsbridge/test_app/.git/"
@@ -116,8 +116,8 @@ bundle install --without production
   step "Add the changes to git" do
 
     console <<-BASH
-      git add .
-      git commit -m "Updates for heroku deployment"
+git add .
+git commit -m "Updates for heroku deployment"
     BASH
   end
 

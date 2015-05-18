@@ -74,13 +74,13 @@ step "Generate a database model" do
   end
 
   console <<-BASH
-    rails generate scaffold drink name:string temperature:integer
+rails generate scaffold drink name:string temperature:integer
   BASH
   console <<-BASH
-    rake db:migrate
+rake db:migrate
   BASH
   console <<-BASH
-    rails server
+rails server
   BASH
 
   message <<-MARKDOWN

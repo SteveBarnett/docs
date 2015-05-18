@@ -28,8 +28,8 @@ step "Set up SSH authentication with GitHub" do
 
     message "Linux users,"
     console <<-BASH
-    sudo apt-get install xclip
-    xclip -sel clip < ~/.ssh/id_rsa.pub
+sudo apt-get install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
     BASH
 
     message "Windows users,"
