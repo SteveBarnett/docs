@@ -149,7 +149,7 @@ git commit -m "Updates for heroku deployment"
 
     important "Be sure to find and learn your Heroku application name in the output."
 
-    message "This process will probably take about twice as long as your 'bundle install' and then will return you to your console prompt.  If it takes longer than that, talk to a TA."
+    message "This process will probably take about twice as long as your 'bundle install' and then will return you to your console prompt.  If it takes longer than that, talk to a teacher."
 
     console "heroku run rake db:migrate"
 

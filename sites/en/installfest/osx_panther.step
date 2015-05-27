@@ -41,7 +41,7 @@ For more information, see the [Apple Transition Timeline](http://en.wikipedia.or
   end
 
   option "Tiger" do
-    message "ask a TA to help you install git on Tiger"
+    message "ask a teacher to help you install git on Tiger"
     message "(you probably want to use MacPorts)"
   end
 

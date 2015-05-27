@@ -66,7 +66,7 @@ Follow along at http://docs.railsbridge.org/learn-to-code
 # What if I know some of that already?
 
 * Pair up and fill in each other's gaps
-* Promote yourself to TA
+* Promote yourself to teacher
 
 ## And if you and your pair finish early...
 

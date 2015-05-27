@@ -14,6 +14,6 @@
 
 # Thanks
 
-* to all the TAs
+* to all the teachers
 * to all the students!
 
