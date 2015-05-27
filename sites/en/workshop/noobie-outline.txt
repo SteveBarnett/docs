@@ -4,7 +4,7 @@ Target Audience: Students who have not exposure to the command line and/or progr
 
 Emphasis:
 Hands-on group exercises led by instructor where code is reviewed line-by-line.
-TA's help trouble-shoot students who get stuck while instructor maintains pace of the sessions.
+Teachers help trouble-shoot students who get stuck while instructor maintains pace of the sessions.
 Focus on learning over finishing course material and give students the ‘ah-ha' where they realize programming is not hard.
 Use simple language with metaphors to demonstrate core programming principles.
 Prompt students for feedback and no question is too simple or stupid.
