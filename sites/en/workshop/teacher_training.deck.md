@@ -3,7 +3,7 @@
 
 <!SLIDE bullets>
 # What are we doing here?
-* Over the next two hours, we will share advice about how to teach/TA a Railsbridge Open Workshop.
+* Over the next two hours, we will share advice about how to teach a Railsbridge Open Workshop.
 * This will be a conversation, not a lecture.
   * You will share your experiences and advice
 * (Yes, this is a sneaky way of modeling how you should teach your class)
@@ -16,7 +16,6 @@
 # Who are you?
 
 * Who has taught before?
-* Who has TA'd before?
 * Why are you here?
 
 <!SLIDE bullets incremental>
@@ -121,7 +120,7 @@ Discuss!
 
 <!SLIDE bullets incremental>
 # How to introduce yourself to the class?
-As a teacher or TA...
+As a teacher...
 
 * Tell your story
 * Tell why you like programming and teaching
@@ -159,7 +158,7 @@ As a teacher or TA...
 # What if a student has install trouble?
 * Do **not** stop teaching to debug it
 * Ask the student to pair up with her neighbor until the next break
-* Ask a TA to take a look at it when they get a chance
+* Ask a teacher to take a look at it when they get a chance
 
 <!SLIDE smbullets incremental>
 # Web Resources
@@ -227,15 +226,15 @@ You should be aware of these, even if you don't tell the students all of them ri
 # What if a student feels the class is going too slowly?
 * Talk to her privately
 * Suggest moving up from noob to post-noob
-* Suggest field promotion to TA
+* Suggest field promotion to teacher
 
 <!SLIDE smbullets incremental>
-# How to effectively use TA's?
+# How to effectively use teachers?
 
 * Have them debug/look at students' computer screens
 * Pair them with the n00best/most shy students
-* Encourage TAs to answer questions
-  * TA's explanation might resonate with a student where yours didn't
+* Encourage teachers to answer questions
+  * Teacher's explanation might resonate with a student where yours didn't
 * Treat student like customer
   * What is underlying concern?
 
@@ -246,7 +245,7 @@ You should be aware of these, even if you don't tell the students all of them ri
 
 <!SLIDE bullets>
 # Installfest
-* If you go to the installfest, introduce yourself as a TA
+* If you go to the installfest, introduce yourself as a teacher
 * "I'll be here to help you tomorrow"
 
 <!SLIDE bullets incremental>

@@ -1,6 +1,6 @@
 message <<-MARKDOWN
 
-There are a number of different editors designed for programming. You may already have a favorite editor; if so you can continue using that editor. If you have never used a programming editor, there are a number of good editors available, several of them free of charge. Most Railsbridge instructors use the Sublime editor, so you may want to install Sublime; if you end up asking for help during your class it may be easier for an instructor or TA to help you if you are using Sublime. Here is a list of some of the more widely used editors:
+There are a number of different editors designed for programming. You may already have a favorite editor; if so you can continue using that editor. If you have never used a programming editor, there are a number of good editors available, several of them free of charge. Most Railsbridge instructors use the Sublime editor, so you may want to install Sublime; if you end up asking for help during your class it may be easier for a teacher to help you if you are using Sublime. Here is a list of some of the more widely used editors:
 
 * <a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a> is popular with many Ruby and Rails users. You can use it free for evaluation, then must pay to continue using it.
 * <a href="http://komodoide.com/download/" target="_blank">Komodo</a> is a very good free programming editor, that is not used as widely as in the past. It is relatively easy to use.

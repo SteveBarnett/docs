@@ -77,7 +77,7 @@ step do
 This code is in a file!
 I stored a variable with the value 19!
 CONTENTS
-  message "If you didn't see this message, troubleshoot with a TA. We will do
+  message "If you didn't see this message, troubleshoot with a teacher. We will do
     this for the rest of the tutorial, so it's important to ensure everything
     works."
 end
