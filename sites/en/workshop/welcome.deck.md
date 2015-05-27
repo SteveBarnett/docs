@@ -15,9 +15,9 @@
 
 <!SLIDE bullets>
 # Our awesome sponsors
-![Platform45](img/platform45-logo.png)
-![PragmaticProgrammer](img/pragprog-logo.png)
+![KRS](img/KRS.jpg)
 ![Hetzner](img/hetzner-logo.png)
+![PragmaticProgrammer](img/pragprog-logo.png)
 ![Pluralsight](img/pluralsight-fullcolor-175x39-v3.png)
 
 <!SLIDE bullets>
@@ -41,9 +41,6 @@
 ### Diversity in Cape Town tech
 ### Programming skills: useful, empowering, fun
 #### &nbsp; (Especially on the web)
-### Bring more people to the Ruby community
-### Encourage thinking about diversity and outreach
-### Provide people new to programming access to experienced programmers
 
 
 <!SLIDE bullets>
@@ -88,23 +85,8 @@
 # After today?
 
 ### [rbcpt.org/resources](http://rbcpt.org/resources/)
-### [Learn Rails] http://learn-rails.com/railsbridge
-### Form study groups
-### Learn more about coding
-### Learn more Ruby
-### Learn more Rails
+### Learn more about coding, Ruby, or Rails
 ### Do another RailsBridge
-### Learn another programming language
-### Think about becoming a developer
-
-<!SLIDE>
-# Last but not least
-### Type it out: don't Copy, Paste
-### Check the Glossary
-### Help us improve the docs
-### Ask questions: Teachers are here to help
-### Tweet using @RailsBridgeCPT, #RBCPT, or #railsbridge
-### Code of Conduct: [rbcpt.org/code](http://rbcpt.org/code/)
-
+### Become a developer? :)
 
 # [rbcpt.org/start](http://rbcpt.org/start/)
