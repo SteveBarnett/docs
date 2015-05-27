@@ -234,7 +234,7 @@ You should be aware of these, even if you don't tell the students all of them ri
 * Have them debug/look at students' computer screens
 * Pair them with the n00best/most shy students
 * Encourage teachers to answer questions
-  * Teachers explanation might resonate with a student where yours didn't
+  * Teacher's explanation might resonate with a student where yours didn't
 * Treat student like customer
   * What is underlying concern?
 
