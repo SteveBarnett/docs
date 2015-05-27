@@ -97,7 +97,7 @@ rails server
 
     You should see: ![Drink was successfully created](img/get_a_sticker_you_should_see.png)
 
-    In your terminal, Hold Control and hit C (or on Windows, Control-Break, Y) to stop the rails server.
+    In your terminal, type **Control-C** to stop the rails server again. Windows will ask "Terminate batch job (Y/N)?". Type "Y".
   MARKDOWN
 end
 
