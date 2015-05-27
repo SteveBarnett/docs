@@ -177,7 +177,7 @@ git commit -m "Updates for heroku deployment"
 
     message "The URL for your app is <code>*application-name*.heroku.com</code> -- so with the example output in the previous step, it would be <code>floating-winter-18.heroku.com</code>. Verify you see the welcome page. Leave this browser window open."
 
-    message "Create and save a new drink to verify you can write to the database on Heroku."
+    message "Create and save a new drink. Saving a new drink means that your app can write to the database on Heroku. Nice!"
 
   end
 end
