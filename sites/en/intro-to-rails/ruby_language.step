@@ -18,7 +18,7 @@ steps do
 
     message "Yours might look different, but it should look something like this:"
 
-    console_without_message "1.9.3p362 :001 > "
+    console_without_message "2.0.0-p481 :001 > "
   end
 
   step do
