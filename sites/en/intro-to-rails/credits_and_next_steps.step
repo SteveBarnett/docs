@@ -10,6 +10,19 @@ If you'd like to try your hand at more coding and add useful features to your ap
 MARKDOWN
 
 
+tip "Hey, buddy!" do
+
+  message "Grab an index card and a pen. Write a [SMART](http://en.wikipedia.org/wiki/SMART_criteria) goal for yourself. It should be something kinda small and kinda soon: **S**pecific, **M**easurable, **A**ssignable, **R**ealistic, **T**ime-related."
+
+  message "Pass the card to someone at the workshop (your new buddy!), and ask them to write **their email address** and **their SMART goal** on the other side of your card."  
+
+  message "Take your card back and promise each other to keep in contact until you've both achieved your SMART goal."
+
+  message "Celebrate with a high five ^5 !"
+
+end
+
+
 message <<MARKDOWN
 
 # Help us make RailsBridge better
