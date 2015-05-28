@@ -3,22 +3,37 @@ message <<MARKDOWN
 ### You've just completed your first Rails app.
 
 (Well, they're never _really_ finished... have fun tweaking it!)
-And yes... you get another sticker!
+And yes... **you get another sticker**!
 
 If you'd like to try your hand at more coding and add useful features to your app, have a look at the extra credit section below.
 
 MARKDOWN
 
 
-tip "Help us make RailsBridge better" do
+tip "Hey, buddy!" do
 
-  message "Please take five minutes to [complete our (anonymous) survey](http://rbcpt.org/exitsurvey/)."
+  message "Grab an index card and a pen. Write a [SMART](http://en.wikipedia.org/wiki/SMART_criteria) goal for yourself. It should be something kinda small and kinda soon: **S**pecific, **M**easurable, **A**ssignable, **R**ealistic, **T**ime-related."
 
-  message "It's only four questions! We use your answers to do cool things. So far we've improved the documentation, got better coffee, added an overview, and lots more. **You will get another sticker :)**."
+  message "Pass the card to someone at the workshop (your new buddy!), and ask them to write **their email address** and **their SMART goal** on the other side of your card."  
 
-  message "Thank you!"
+  message "Take your card back and promise each other to keep in contact until you've both achieved your SMART goal."
+
+  message "Celebrate with a high five ^5 !"
+
 end
 
+
+message <<MARKDOWN
+
+# Help us make RailsBridge better
+
+Please take five minutes to [complete our (anonymous) survey](http://rbcpt.org/exitsurvey/).
+
+It's only four questions! We use your answers to do cool things. So far we've improved the documentation, got better coffee, added an overview, and lots more. **You will get yet another sticker :)**.
+
+Thank you!
+
+MARKDOWN
 
 
 message <<MARKDOWN
