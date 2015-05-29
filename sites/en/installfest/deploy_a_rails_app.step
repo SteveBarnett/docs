@@ -37,9 +37,6 @@ step "Deploy your app to Heroku" do
 
     console "heroku create"
     result <<-OUTPUT
-      Enter your Heroku credentials.
-      Email: myemail@example.com
-      Password:
       Uploading ssh public key /Users/smei/.ssh/id_rsa.pub
       Creating floating-winter-18... done, stack is cedar
       http://floating-winter-18.heroku.com/ | git@heroku.com:floating-winter-18.git
