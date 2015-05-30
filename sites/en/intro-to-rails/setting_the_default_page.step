@@ -26,9 +26,6 @@ steps {
 root 'topics#index'
     RUBY
 
-    em do
-      message "(Rails 3.x users should add `root to: 'topics#index'` and will need to remove their `public/index.html` file)."
-    end
   end
 
   step "Confirm your changes" do
