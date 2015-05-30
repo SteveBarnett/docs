@@ -63,7 +63,7 @@ fruits = fruits - ["kiwi"]
     message "Everything in Ruby has a **class**. Type this into IRB:"
 
     console_without_message <<-RUBY
-7.class
+42.class
 "kiwi".class
 fruits.class
 RUBY
