@@ -55,7 +55,7 @@ end
     message "There are now changes to Gemfile and Gemfile.lock that need to be committed before we can push to heroku."
     console <<-SHELL
 git add -A
-git commit -m "Changed Gemfile for heroku"
+git commit -m "Changed Gemfile for Heroku"
     SHELL
   end
 end
