@@ -23,8 +23,7 @@ explanation {
     going to do the full CRUD for votes; they're just going to be
     considered part of topics as-is.
 
-After running the `rails generate resource` command we are sure you noticed
-that it does something really similar to the `rails generate scaffold` command.
+The `rails generate resource` command does something really similar to the `rails generate scaffold` command.
 The difference is:
 
   * The command `rails generate scaffold <scaffold-name>` generates prepopulated
